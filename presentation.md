@@ -1,6 +1,6 @@
 footer: © [Tasos Sangiotis](http://tsangiotis.com), [IEEE SB UPatras](http://ieee-upatras.gr), 2015
 
-![inline 60%](python-logo.png)
+![inline 60%](images/python-logo.png)
 
 # An Introduction
 
@@ -68,14 +68,14 @@ one kilobyte is 2^10 bytes, or 1024 bytes
 ```
 
 ---
-![](obama-code.jpg)
+![](images/obama-code.jpg)
 
 #Let's get Serious!
 ###Μαζί με τον Ομπάμα!:+1:
 
 
 ---
-![inline 40%](pascal_logo.png) vs ![inline 60%](python-logo.png)
+![inline 40%](images/pascal_logo.png) vs ![inline 60%](python-logo.png)
 
 Με ένα απλό παράδειγμα
 
